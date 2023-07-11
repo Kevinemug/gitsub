@@ -1,4 +1,4 @@
-# bundle 1
+# git exercise
 <h1> Bundle 1</h1>
 
 PS C:\Users\user\gitsub> git init
