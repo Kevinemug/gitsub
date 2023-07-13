@@ -20,4 +20,3 @@ Already on 'dev'
 PS C:\Users\user\gitsub> git branch -d test
 Deleted branch test (was 9f1fa1d).
 PS C:\Users\user\gitsub> 
-
